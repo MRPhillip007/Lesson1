@@ -1,0 +1,15 @@
+C:\BettrootCourses\lesson01\Lesson01\bin\Debug\net6.0\Lesson01.exe
+C:\BettrootCourses\lesson01\Lesson01\bin\Debug\net6.0\Lesson01.deps.json
+C:\BettrootCourses\lesson01\Lesson01\bin\Debug\net6.0\Lesson01.runtimeconfig.json
+C:\BettrootCourses\lesson01\Lesson01\bin\Debug\net6.0\Lesson01.dll
+C:\BettrootCourses\lesson01\Lesson01\bin\Debug\net6.0\Lesson01.pdb
+C:\BettrootCourses\lesson01\Lesson01\obj\Debug\net6.0\Lesson01.csproj.AssemblyReference.cache
+C:\BettrootCourses\lesson01\Lesson01\obj\Debug\net6.0\Lesson01.GeneratedMSBuildEditorConfig.editorconfig
+C:\BettrootCourses\lesson01\Lesson01\obj\Debug\net6.0\Lesson01.AssemblyInfoInputs.cache
+C:\BettrootCourses\lesson01\Lesson01\obj\Debug\net6.0\Lesson01.AssemblyInfo.cs
+C:\BettrootCourses\lesson01\Lesson01\obj\Debug\net6.0\Lesson01.csproj.CoreCompileInputs.cache
+C:\BettrootCourses\lesson01\Lesson01\obj\Debug\net6.0\Lesson01.dll
+C:\BettrootCourses\lesson01\Lesson01\obj\Debug\net6.0\refint\Lesson01.dll
+C:\BettrootCourses\lesson01\Lesson01\obj\Debug\net6.0\Lesson01.pdb
+C:\BettrootCourses\lesson01\Lesson01\obj\Debug\net6.0\Lesson01.genruntimeconfig.cache
+C:\BettrootCourses\lesson01\Lesson01\obj\Debug\net6.0\ref\Lesson01.dll
